@@ -20,7 +20,13 @@
 
 - **Root** 权限（Magisk / KernelSU / APatch 均可）
 - **LSPosed 框架**（libxposed API 101+）
-- 天猫校园 App `com.tmall.campus.and`（已测试版本：5.0.0）
+
+## 支持版本
+
+| 应用 | 包名 | 支持版本 |
+|------|------|----------|
+| 天猫校园 | `com.tmall.campus.and` | 5.0.0 |
+| 趣智校园 | `com.klcxkj.zqxy` | 6.5.21 |
 
 ## 安装与使用
 
