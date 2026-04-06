@@ -45,7 +45,7 @@
 1. 确保设备已 Root 并安装 LSPosed 框架
 2. 下载 [天猫校园去广告_1.0_flow.apk](天猫校园去广告_1.0_flow.apk) 并安装
 3. 打开 LSPosed → 模块 → 启用「天猫校园去广告」
-4. 勾选作用域：**天猫校园去广告**（`com.puretools.campus`，模块自身）、**天猫校园**（`com.tmall.campus.and`）和 **趣智校园**（`com.klcxkj.zqxy`）
+4. 勾选作用域：**天猫校园**（`com.tmall.campus.and`）和 **趣智校园**（`com.klcxkj.zqxy`）
 5. 强制停止对应 App 后重新打开即可生效
 6. 打开本模块 App 可查看激活状态，进入设置界面可自定义开关
 
